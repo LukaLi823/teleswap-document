@@ -1,8 +1,10 @@
-# 🍯 Syrup Pools - Stake CAKE
+---
+description: SushTele
+---
 
-![](../../.gitbook/assets/syrup-poos-header.png)
+# 🍯 xTele
 
-### **What are Syrup Pools?**
+**What are Syrup Pools?**
 
 Syrup Pools are the simplest way to earn free tokens on PancakeSwap.\
 Stake CAKE, earn free tokens. It’s really that easy.
@@ -46,6 +48,3 @@ Reach out via [the application form](https://docs.pancakeswap.finance/contact-us
 [CAKE Syrup Pool](../../code/smart-contracts/fixed-term-staking-cake-pool.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
-
-

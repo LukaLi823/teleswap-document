@@ -21,7 +21,7 @@ You need to migrate if you are:
 
 ## How to migrate?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../.gitbook/assets/migration-helper-overview.png)
+![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process](../../.gitbook/assets/migration-helper-overview.png)
 
 ### 1. Navigate to the migration helper
 
@@ -59,8 +59,6 @@ For CAKE syrup pool. Please:
 2. Enter the amount of CAKE you want to stake.
 3. Click "**Confirm**".
 
-
-
 {% hint style="info" %}
 The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../products/coming-soon/new-cake-pool/).
 {% endhint %}
@@ -87,7 +85,7 @@ You are now staking in the new MasterChef and continue earning CAKE rewards! Cli
 
 ![](<../../.gitbook/assets/en - migration timeline - 2.png>)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../contact-us/#help).
+Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](broken-reference).
 
 ## FAQ
 
@@ -97,7 +95,7 @@ Migration will take several hours, but it should be totally finished upon the la
 
 #### **When must I migrate?**
 
-1. You will be able to migrate at any time. There’s no time limit.&#x20;
+1. You will be able to migrate at any time. There’s no time limit.
 2. It’s better to migrate sooner so you can continue to earn rewards from farms and pools.
 
 #### I don’t see the migration helper!

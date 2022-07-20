@@ -1,4 +1,8 @@
-# 🛍 IFO (Initial Farm Offering)
+---
+description: LaunchPad
+---
+
+# 🛍 Launch Pad
 
 ![](../../.gitbook/assets/ifo-header.png)
 
@@ -18,7 +22,7 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 Before Sale:
 
-1. [Complete your PancakeSwap profile setup](../nft-profile-system/profile-guide.md).
+1. [Complete your PancakeSwap profile setup](broken-reference).
 2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 3. [Lock CAKE in the CAKE syrup pool](../coming-soon/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
@@ -50,4 +54,4 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 Launch your project with PancakeSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
-👉 [Apply to launch now! ](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
+👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)

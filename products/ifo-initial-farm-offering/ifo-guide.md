@@ -26,7 +26,7 @@ iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sal
 
 To get iCAKE, go to the IFO page [here](https://pancakeswap.finance/ifo). Locate the CAKE syrup pool card, and click "Locked" under "Stake CAKE" to proceed.
 
-To learn more about iCAKE and how is iCAKE calculated, check out the doc [here](icake.md).&#x20;
+To learn more about iCAKE and how is iCAKE calculated, check out the doc [here](broken-reference).
 
 ### Get CAKE Tokens
 
@@ -118,7 +118,7 @@ Remember, you can only commit the amount of CAKE equal to the maximum commit lim
 
 3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Private Sale section will show your committed amount.
 
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.&#x20;
+You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
 
 ## After the IFO has ended
 
@@ -138,16 +138,16 @@ Collecting your new tokens is incredibly easy. Just go back to the IFO page once
 
 ![](../../.gitbook/assets/image7.png)
 
-Once the IFO sale is finished. A vesting interface will be presented in the IFO sale section. You can find all the useful information about the entire vesting schedule. Including but not limited to:&#x20;
+Once the IFO sale is finished. A vesting interface will be presented in the IFO sale section. You can find all the useful information about the entire vesting schedule. Including but not limited to:
 
-* The total amount of purchased token.&#x20;
-* The number of tokens has already been released.&#x20;
-* The number of tokens available to claim.&#x20;
-* When the release schedule is finished.&#x20;
+* The total amount of purchased token.
+* The number of tokens has already been released.
+* The number of tokens available to claim.
+* When the release schedule is finished.
 
 You can click the **Claim** button to claim any tokens available at the moment.
 
-Throughout the entire vesting schedule, you can come back to the IFO page at any time and claim any available tokens.&#x20;
+Throughout the entire vesting schedule, you can come back to the IFO page at any time and claim any available tokens.
 
 ### Using your new tokens in farms
 
@@ -155,4 +155,4 @@ Now that you've got your shiny new tokens, you can put them to work for you!
 
 You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
 
-If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).\
+If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).\\

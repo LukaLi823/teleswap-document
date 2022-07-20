@@ -1,4 +1,8 @@
-# New CAKE Syrup Pool
+---
+description: TETLE
+---
+
+# New TELE Syrup Pool
 
 ## Stake CAKE, earn CAKE!
 
